@@ -50,7 +50,31 @@
 
             //Výpis více promených pomocí pořadových čísel
             Console.WriteLine("Moje jméno je {0} a můj věk je {1} let.",jmeno,vek);
-            
+
+            //Příklad využití výpisu více proměnných na jednom řádku
+            string ulice = "Kamenická";
+            int cisloPopisne = 15;
+            Console.WriteLine($"Bydlím v ulici {ulice} a číslo popisné je {cisloPopisne}.");
+
+            //Long
+            // int a = 500000000000000000; nelze napsat (pro int max. 2 miliony)
+            long b = 500000000000000000; //long pro velká čísla
+
+            //Proměné pro desetiná čísla
+            float c = 2.15555555555555F; //F za desetinným místem, pouze 7 des. míst
+            double e = 5.555555555555555555;
+            Console.WriteLine(c + " " + e);
+
+            //Boolean - drží jenom true, nebo false (pravda/nepravda)
+            bool f = true;
+            bool g = false;
+            Console.WriteLine(f + " " + g);
+
+            //Char
+            char h = 'a'; //použít pouze jedny uvozovky (')
+            Console.WriteLine(h);
+
+
 
 
 
