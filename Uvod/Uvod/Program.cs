@@ -114,6 +114,13 @@
             int o = 0;
             int u = 0;
 
+            Console.WriteLine("Napiš číslo \"u\"");
+            u = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Napiš číslo \"o\"");
+            o = int.Parse(Console.ReadLine());
+
+            Console.WriteLine($"Výsledek sčítání čísel u: {u} a o: {o} je {u+o}");
 
 
 
