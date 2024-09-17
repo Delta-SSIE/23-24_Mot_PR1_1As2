@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Uvod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3f5814c0843788e979489bb35c7cddb6412f45a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5cdad3354dd535d21406fd2acafbd77ed970e25")]
 [assembly: System.Reflection.AssemblyProductAttribute("Uvod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Uvod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

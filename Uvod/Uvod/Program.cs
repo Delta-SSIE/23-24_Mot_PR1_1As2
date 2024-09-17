@@ -74,6 +74,50 @@
             char h = 'a'; //použít pouze jedny uvozovky (')
             Console.WriteLine(h);
 
+            //Implicit casting char --> int
+            int cisloChar = h;
+            Console.WriteLine(cisloChar);
+
+            //Explicit casting int --> char
+            char i = (char) 99;
+            Console.WriteLine(i);
+
+            //Parsováním (při parsování vždy dodržujeme syntaxi datovyTyp.Parse(proměnnáOrigo)
+            string textA = "97";
+            int cisloA = int.Parse(textA);
+            Console.WriteLine(cisloA+3);
+
+            //Convertování (při convertování vždy dodržujeme syntaxi Convert.ToDatovyTyp(proměnnáOrigo)
+            int cisloB = 98;
+            string textB = Convert.ToString(cisloB);
+            Console.WriteLine(textB+2);
+
+            int cisloC = Convert.ToInt32(textB);
+            Console.WriteLine(cisloC+2);
+
+            //Console.Readline
+
+            Console.WriteLine("Napiš mi své jméno");
+            string uzivJmeno = Console.ReadLine(); //načtení uživatelova vstupu do proměnné
+            Console.WriteLine($"Uživatel se jmenuje: {uzivJmeno}");
+
+            //Načtení int z vstupu uživatele pomocí Parse a Convert
+            Console.Write("Napiš mi svůj věk:");
+            int uzivVek = int.Parse(Console.ReadLine());
+            Console.WriteLine($"Uživatel je starý: {uzivVek}");
+
+            Console.Write("Napiš mi svůj věk:");
+            int uzivVek2 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine($"Uživatel je starý: {uzivVek2}");
+
+            //Sčítačka
+            int o = 0;
+            int u = 0;
+
+
+
+
+
 
 
 
