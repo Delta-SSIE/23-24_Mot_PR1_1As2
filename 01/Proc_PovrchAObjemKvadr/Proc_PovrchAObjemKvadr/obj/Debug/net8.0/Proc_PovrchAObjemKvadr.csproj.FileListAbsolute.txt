@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\01\Proc_PovrchAObjemKvadr\Proc_PovrchAObjemKvadr\bin\Debug\net8.0\Proc_PovrchAObjemKvadr.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\01\Proc_PovrchAObjemKvadr\Proc_PovrchAObjemKvadr\bin\Debug\net8.0\Proc_PovrchAObjemKvadr.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\01\Proc_PovrchAObjemKvadr\Proc_PovrchAObjemKvadr\bin\Debug\net8.0\Proc_PovrchAObjemKvadr.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\01\Proc_PovrchAObjemKvadr\Proc_PovrchAObjemKvadr\bin\Debug\net8.0\Proc_PovrchAObjemKvadr.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\01\Proc_PovrchAObjemKvadr\Proc_PovrchAObjemKvadr\bin\Debug\net8.0\Proc_PovrchAObjemKvadr.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\01\Proc_PovrchAObjemKvadr\Proc_PovrchAObjemKvadr\obj\Debug\net8.0\Proc_PovrchAObjemKvadr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\01\Proc_PovrchAObjemKvadr\Proc_PovrchAObjemKvadr\obj\Debug\net8.0\Proc_PovrchAObjemKvadr.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\01\Proc_PovrchAObjemKvadr\Proc_PovrchAObjemKvadr\obj\Debug\net8.0\Proc_PovrchAObjemKvadr.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\01\Proc_PovrchAObjemKvadr\Proc_PovrchAObjemKvadr\obj\Debug\net8.0\Proc_PovrchAObjemKvadr.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\01\Proc_PovrchAObjemKvadr\Proc_PovrchAObjemKvadr\obj\Debug\net8.0\Proc_PovrchAObjemKvadr.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\01\Proc_PovrchAObjemKvadr\Proc_PovrchAObjemKvadr\obj\Debug\net8.0\Proc_PovrchAObjemKvadr.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\01\Proc_PovrchAObjemKvadr\Proc_PovrchAObjemKvadr\obj\Debug\net8.0\refint\Proc_PovrchAObjemKvadr.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\01\Proc_PovrchAObjemKvadr\Proc_PovrchAObjemKvadr\obj\Debug\net8.0\Proc_PovrchAObjemKvadr.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\01\Proc_PovrchAObjemKvadr\Proc_PovrchAObjemKvadr\obj\Debug\net8.0\Proc_PovrchAObjemKvadr.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\01\Proc_PovrchAObjemKvadr\Proc_PovrchAObjemKvadr\obj\Debug\net8.0\ref\Proc_PovrchAObjemKvadr.dll
