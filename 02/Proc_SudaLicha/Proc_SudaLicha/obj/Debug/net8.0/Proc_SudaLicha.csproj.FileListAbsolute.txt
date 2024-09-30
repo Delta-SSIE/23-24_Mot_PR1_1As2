@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_SudaLicha\Proc_SudaLicha\bin\Debug\net8.0\Proc_SudaLicha.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_SudaLicha\Proc_SudaLicha\bin\Debug\net8.0\Proc_SudaLicha.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_SudaLicha\Proc_SudaLicha\bin\Debug\net8.0\Proc_SudaLicha.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_SudaLicha\Proc_SudaLicha\bin\Debug\net8.0\Proc_SudaLicha.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_SudaLicha\Proc_SudaLicha\bin\Debug\net8.0\Proc_SudaLicha.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_SudaLicha\Proc_SudaLicha\obj\Debug\net8.0\Proc_SudaLicha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_SudaLicha\Proc_SudaLicha\obj\Debug\net8.0\Proc_SudaLicha.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_SudaLicha\Proc_SudaLicha\obj\Debug\net8.0\Proc_SudaLicha.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_SudaLicha\Proc_SudaLicha\obj\Debug\net8.0\Proc_SudaLicha.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_SudaLicha\Proc_SudaLicha\obj\Debug\net8.0\Proc_SudaLicha.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_SudaLicha\Proc_SudaLicha\obj\Debug\net8.0\Proc_SudaLicha.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_SudaLicha\Proc_SudaLicha\obj\Debug\net8.0\refint\Proc_SudaLicha.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_SudaLicha\Proc_SudaLicha\obj\Debug\net8.0\Proc_SudaLicha.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_SudaLicha\Proc_SudaLicha\obj\Debug\net8.0\Proc_SudaLicha.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_SudaLicha\Proc_SudaLicha\obj\Debug\net8.0\ref\Proc_SudaLicha.dll
