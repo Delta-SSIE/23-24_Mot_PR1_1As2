@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Podminka_IF\Podminka_IF\bin\Debug\net8.0\Podminka_IF.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Podminka_IF\Podminka_IF\bin\Debug\net8.0\Podminka_IF.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Podminka_IF\Podminka_IF\bin\Debug\net8.0\Podminka_IF.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Podminka_IF\Podminka_IF\bin\Debug\net8.0\Podminka_IF.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Podminka_IF\Podminka_IF\bin\Debug\net8.0\Podminka_IF.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Podminka_IF\Podminka_IF\obj\Debug\net8.0\Podminka_IF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Podminka_IF\Podminka_IF\obj\Debug\net8.0\Podminka_IF.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Podminka_IF\Podminka_IF\obj\Debug\net8.0\Podminka_IF.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Podminka_IF\Podminka_IF\obj\Debug\net8.0\Podminka_IF.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Podminka_IF\Podminka_IF\obj\Debug\net8.0\Podminka_IF.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Podminka_IF\Podminka_IF\obj\Debug\net8.0\Podminka_IF.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Podminka_IF\Podminka_IF\obj\Debug\net8.0\refint\Podminka_IF.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Podminka_IF\Podminka_IF\obj\Debug\net8.0\Podminka_IF.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Podminka_IF\Podminka_IF\obj\Debug\net8.0\Podminka_IF.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Podminka_IF\Podminka_IF\obj\Debug\net8.0\ref\Podminka_IF.dll

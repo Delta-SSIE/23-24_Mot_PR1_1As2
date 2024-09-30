@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Podminka_IF/1.0.0": {
+        "runtime": {
+          "Podminka_IF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Podminka_IF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
