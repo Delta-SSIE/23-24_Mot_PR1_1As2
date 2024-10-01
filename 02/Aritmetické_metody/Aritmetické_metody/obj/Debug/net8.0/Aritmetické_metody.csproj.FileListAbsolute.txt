@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Aritmetické_metody\Aritmetické_metody\bin\Debug\net8.0\Aritmetické_metody.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Aritmetické_metody\Aritmetické_metody\bin\Debug\net8.0\Aritmetické_metody.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Aritmetické_metody\Aritmetické_metody\bin\Debug\net8.0\Aritmetické_metody.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Aritmetické_metody\Aritmetické_metody\bin\Debug\net8.0\Aritmetické_metody.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Aritmetické_metody\Aritmetické_metody\bin\Debug\net8.0\Aritmetické_metody.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Aritmetické_metody\Aritmetické_metody\obj\Debug\net8.0\Aritmetické_metody.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Aritmetické_metody\Aritmetické_metody\obj\Debug\net8.0\Aritmetické_metody.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Aritmetické_metody\Aritmetické_metody\obj\Debug\net8.0\Aritmetické_metody.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Aritmetické_metody\Aritmetické_metody\obj\Debug\net8.0\Aritmetické_metody.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Aritmetické_metody\Aritmetické_metody\obj\Debug\net8.0\Aritmetické_metody.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Aritmetické_metody\Aritmetické_metody\obj\Debug\net8.0\Aritmetické_metody.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Aritmetické_metody\Aritmetické_metody\obj\Debug\net8.0\refint\Aritmetické_metody.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Aritmetické_metody\Aritmetické_metody\obj\Debug\net8.0\Aritmetické_metody.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Aritmetické_metody\Aritmetické_metody\obj\Debug\net8.0\Aritmetické_metody.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Aritmetické_metody\Aritmetické_metody\obj\Debug\net8.0\ref\Aritmetické_metody.dll

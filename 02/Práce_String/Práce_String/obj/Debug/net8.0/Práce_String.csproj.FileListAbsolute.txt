@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Práce_String\Práce_String\bin\Debug\net8.0\Práce_String.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Práce_String\Práce_String\bin\Debug\net8.0\Práce_String.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Práce_String\Práce_String\bin\Debug\net8.0\Práce_String.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Práce_String\Práce_String\bin\Debug\net8.0\Práce_String.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Práce_String\Práce_String\bin\Debug\net8.0\Práce_String.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Práce_String\Práce_String\obj\Debug\net8.0\Práce_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Práce_String\Práce_String\obj\Debug\net8.0\Práce_String.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Práce_String\Práce_String\obj\Debug\net8.0\Práce_String.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Práce_String\Práce_String\obj\Debug\net8.0\Práce_String.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Práce_String\Práce_String\obj\Debug\net8.0\Práce_String.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Práce_String\Práce_String\obj\Debug\net8.0\Práce_String.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Práce_String\Práce_String\obj\Debug\net8.0\refint\Práce_String.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Práce_String\Práce_String\obj\Debug\net8.0\Práce_String.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Práce_String\Práce_String\obj\Debug\net8.0\Práce_String.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Práce_String\Práce_String\obj\Debug\net8.0\ref\Práce_String.dll
