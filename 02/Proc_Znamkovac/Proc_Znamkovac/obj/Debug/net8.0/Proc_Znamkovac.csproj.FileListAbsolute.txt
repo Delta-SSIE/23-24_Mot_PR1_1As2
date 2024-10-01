@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_Znamkovac\Proc_Znamkovac\bin\Debug\net8.0\Proc_Znamkovac.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_Znamkovac\Proc_Znamkovac\bin\Debug\net8.0\Proc_Znamkovac.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_Znamkovac\Proc_Znamkovac\bin\Debug\net8.0\Proc_Znamkovac.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_Znamkovac\Proc_Znamkovac\bin\Debug\net8.0\Proc_Znamkovac.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_Znamkovac\Proc_Znamkovac\bin\Debug\net8.0\Proc_Znamkovac.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_Znamkovac\Proc_Znamkovac\obj\Debug\net8.0\Proc_Znamkovac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_Znamkovac\Proc_Znamkovac\obj\Debug\net8.0\Proc_Znamkovac.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_Znamkovac\Proc_Znamkovac\obj\Debug\net8.0\Proc_Znamkovac.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_Znamkovac\Proc_Znamkovac\obj\Debug\net8.0\Proc_Znamkovac.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_Znamkovac\Proc_Znamkovac\obj\Debug\net8.0\Proc_Znamkovac.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_Znamkovac\Proc_Znamkovac\obj\Debug\net8.0\Proc_Znamkovac.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_Znamkovac\Proc_Znamkovac\obj\Debug\net8.0\refint\Proc_Znamkovac.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_Znamkovac\Proc_Znamkovac\obj\Debug\net8.0\Proc_Znamkovac.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_Znamkovac\Proc_Znamkovac\obj\Debug\net8.0\Proc_Znamkovac.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_Znamkovac\Proc_Znamkovac\obj\Debug\net8.0\ref\Proc_Znamkovac.dll
