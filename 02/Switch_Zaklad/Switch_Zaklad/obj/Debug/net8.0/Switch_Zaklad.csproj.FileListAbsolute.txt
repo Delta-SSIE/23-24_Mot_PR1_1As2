@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Switch_Zaklad\Switch_Zaklad\bin\Debug\net8.0\Switch_Zaklad.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Switch_Zaklad\Switch_Zaklad\bin\Debug\net8.0\Switch_Zaklad.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Switch_Zaklad\Switch_Zaklad\bin\Debug\net8.0\Switch_Zaklad.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Switch_Zaklad\Switch_Zaklad\bin\Debug\net8.0\Switch_Zaklad.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Switch_Zaklad\Switch_Zaklad\bin\Debug\net8.0\Switch_Zaklad.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Switch_Zaklad\Switch_Zaklad\obj\Debug\net8.0\Switch_Zaklad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Switch_Zaklad\Switch_Zaklad\obj\Debug\net8.0\Switch_Zaklad.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Switch_Zaklad\Switch_Zaklad\obj\Debug\net8.0\Switch_Zaklad.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Switch_Zaklad\Switch_Zaklad\obj\Debug\net8.0\Switch_Zaklad.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Switch_Zaklad\Switch_Zaklad\obj\Debug\net8.0\Switch_Zaklad.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Switch_Zaklad\Switch_Zaklad\obj\Debug\net8.0\Switch_Zaklad.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Switch_Zaklad\Switch_Zaklad\obj\Debug\net8.0\refint\Switch_Zaklad.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Switch_Zaklad\Switch_Zaklad\obj\Debug\net8.0\Switch_Zaklad.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Switch_Zaklad\Switch_Zaklad\obj\Debug\net8.0\Switch_Zaklad.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Switch_Zaklad\Switch_Zaklad\obj\Debug\net8.0\ref\Switch_Zaklad.dll
