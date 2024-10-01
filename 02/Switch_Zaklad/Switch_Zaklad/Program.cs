@@ -50,6 +50,25 @@
                     break;
             }
 
+            //Switch s porovnávacími operátory
+            switch(mesic)
+            {
+                case int n when (n == 12 || (n < 3 && n > 0) ):
+                    Console.WriteLine("Zima");
+                    break;
+                case int a when (a > 2 && a < 6):
+                    Console.WriteLine("Jaro");
+                    break;
+                case int b when (b > 5 && b < 9):
+                    Console.WriteLine("Léto");
+                    break;
+                case int c when (c > 8 && c < 12):
+                    Console.WriteLine("Podzim");
+                    break;
+                default: //spustí se vždycky, pokud hodnota proměnné neodpovídá žádnému casu
+                    Console.WriteLine("Zadal jsi nesmyslné číslo");
+                    break;
+            }
         }
     }
 }

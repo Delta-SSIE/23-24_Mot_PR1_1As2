@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Switch_Zaklad")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b81ceb94afe67fec11b2a89ca1b6c5333a21e0c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c38c4423e66b3dd94e56dfac722eafae3addce4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Switch_Zaklad")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Switch_Zaklad")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
