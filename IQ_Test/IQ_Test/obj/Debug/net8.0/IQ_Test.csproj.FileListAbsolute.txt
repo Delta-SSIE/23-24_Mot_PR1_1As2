@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\IQ_Test\IQ_Test\bin\Debug\net8.0\IQ_Test.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\IQ_Test\IQ_Test\bin\Debug\net8.0\IQ_Test.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\IQ_Test\IQ_Test\bin\Debug\net8.0\IQ_Test.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\IQ_Test\IQ_Test\bin\Debug\net8.0\IQ_Test.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\IQ_Test\IQ_Test\bin\Debug\net8.0\IQ_Test.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\IQ_Test\IQ_Test\obj\Debug\net8.0\IQ_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\IQ_Test\IQ_Test\obj\Debug\net8.0\IQ_Test.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\IQ_Test\IQ_Test\obj\Debug\net8.0\IQ_Test.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\IQ_Test\IQ_Test\obj\Debug\net8.0\IQ_Test.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\IQ_Test\IQ_Test\obj\Debug\net8.0\IQ_Test.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\IQ_Test\IQ_Test\obj\Debug\net8.0\IQ_Test.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\IQ_Test\IQ_Test\obj\Debug\net8.0\refint\IQ_Test.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\IQ_Test\IQ_Test\obj\Debug\net8.0\IQ_Test.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\IQ_Test\IQ_Test\obj\Debug\net8.0\IQ_Test.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\IQ_Test\IQ_Test\obj\Debug\net8.0\ref\IQ_Test.dll
