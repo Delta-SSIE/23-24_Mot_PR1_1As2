@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\JeSamohlaska\JeSamohlaska\bin\Debug\net8.0\JeSamohlaska.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\JeSamohlaska\JeSamohlaska\bin\Debug\net8.0\JeSamohlaska.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\JeSamohlaska\JeSamohlaska\bin\Debug\net8.0\JeSamohlaska.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\JeSamohlaska\JeSamohlaska\bin\Debug\net8.0\JeSamohlaska.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\JeSamohlaska\JeSamohlaska\bin\Debug\net8.0\JeSamohlaska.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\JeSamohlaska\JeSamohlaska\obj\Debug\net8.0\JeSamohlaska.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\JeSamohlaska\JeSamohlaska\obj\Debug\net8.0\JeSamohlaska.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\JeSamohlaska\JeSamohlaska\obj\Debug\net8.0\JeSamohlaska.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\JeSamohlaska\JeSamohlaska\obj\Debug\net8.0\JeSamohlaska.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\JeSamohlaska\JeSamohlaska\obj\Debug\net8.0\JeSamohlaska.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\JeSamohlaska\JeSamohlaska\obj\Debug\net8.0\JeSamohlaska.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\JeSamohlaska\JeSamohlaska\obj\Debug\net8.0\refint\JeSamohlaska.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\JeSamohlaska\JeSamohlaska\obj\Debug\net8.0\JeSamohlaska.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\JeSamohlaska\JeSamohlaska\obj\Debug\net8.0\JeSamohlaska.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\JeSamohlaska\JeSamohlaska\obj\Debug\net8.0\ref\JeSamohlaska.dll
