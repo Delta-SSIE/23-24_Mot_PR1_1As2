@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_Sestistenka\Proc_Sestistenka\bin\Debug\net8.0\Proc_Sestistenka.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_Sestistenka\Proc_Sestistenka\bin\Debug\net8.0\Proc_Sestistenka.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_Sestistenka\Proc_Sestistenka\bin\Debug\net8.0\Proc_Sestistenka.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_Sestistenka\Proc_Sestistenka\bin\Debug\net8.0\Proc_Sestistenka.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_Sestistenka\Proc_Sestistenka\bin\Debug\net8.0\Proc_Sestistenka.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_Sestistenka\Proc_Sestistenka\obj\Debug\net8.0\Proc_Sestistenka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_Sestistenka\Proc_Sestistenka\obj\Debug\net8.0\Proc_Sestistenka.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_Sestistenka\Proc_Sestistenka\obj\Debug\net8.0\Proc_Sestistenka.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_Sestistenka\Proc_Sestistenka\obj\Debug\net8.0\Proc_Sestistenka.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_Sestistenka\Proc_Sestistenka\obj\Debug\net8.0\Proc_Sestistenka.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_Sestistenka\Proc_Sestistenka\obj\Debug\net8.0\Proc_Sestistenka.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_Sestistenka\Proc_Sestistenka\obj\Debug\net8.0\refint\Proc_Sestistenka.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_Sestistenka\Proc_Sestistenka\obj\Debug\net8.0\Proc_Sestistenka.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_Sestistenka\Proc_Sestistenka\obj\Debug\net8.0\Proc_Sestistenka.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\02\Proc_Sestistenka\Proc_Sestistenka\obj\Debug\net8.0\ref\Proc_Sestistenka.dll
