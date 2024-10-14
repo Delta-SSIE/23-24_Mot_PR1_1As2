@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mottja\\source\\PR1-1A-2S(2024)\\02\\Nahodna_Cisla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D76BAAC-5679-4737-93FD-2642827254C6}|Nahodna_Cisla\\Nahodna_Cisla.csproj|c:\\users\\mottja\\source\\pr1-1a-2s(2024)\\02\\nahodna_cisla\\nahodna_cisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D76BAAC-5679-4737-93FD-2642827254C6}|Nahodna_Cisla\\Nahodna_Cisla.csproj|solutionrelative:nahodna_cisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1A-2S(2024)\\02\\Nahodna_Cisla\\Nahodna_Cisla\\Program.cs",
+              "RelativeDocumentMoniker": "Nahodna_Cisla\\Program.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1A-2S(2024)\\02\\Nahodna_Cisla\\Nahodna_Cisla\\Program.cs",
+              "RelativeToolTip": "Nahodna_Cisla\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwCMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:53:31.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
