@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\03\Proc_KdyzPadneSestka\Proc_KdyzPadneSestka\bin\Debug\net8.0\Proc_KdyzPadneSestka.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\03\Proc_KdyzPadneSestka\Proc_KdyzPadneSestka\bin\Debug\net8.0\Proc_KdyzPadneSestka.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\03\Proc_KdyzPadneSestka\Proc_KdyzPadneSestka\bin\Debug\net8.0\Proc_KdyzPadneSestka.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\03\Proc_KdyzPadneSestka\Proc_KdyzPadneSestka\bin\Debug\net8.0\Proc_KdyzPadneSestka.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\03\Proc_KdyzPadneSestka\Proc_KdyzPadneSestka\bin\Debug\net8.0\Proc_KdyzPadneSestka.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\03\Proc_KdyzPadneSestka\Proc_KdyzPadneSestka\obj\Debug\net8.0\Proc_KdyzPadneSestka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\03\Proc_KdyzPadneSestka\Proc_KdyzPadneSestka\obj\Debug\net8.0\Proc_KdyzPadneSestka.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\03\Proc_KdyzPadneSestka\Proc_KdyzPadneSestka\obj\Debug\net8.0\Proc_KdyzPadneSestka.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\03\Proc_KdyzPadneSestka\Proc_KdyzPadneSestka\obj\Debug\net8.0\Proc_KdyzPadneSestka.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\03\Proc_KdyzPadneSestka\Proc_KdyzPadneSestka\obj\Debug\net8.0\Proc_KdyzPadneSestka.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\03\Proc_KdyzPadneSestka\Proc_KdyzPadneSestka\obj\Debug\net8.0\Proc_KdyzPadneSestka.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\03\Proc_KdyzPadneSestka\Proc_KdyzPadneSestka\obj\Debug\net8.0\refint\Proc_KdyzPadneSestka.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\03\Proc_KdyzPadneSestka\Proc_KdyzPadneSestka\obj\Debug\net8.0\Proc_KdyzPadneSestka.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\03\Proc_KdyzPadneSestka\Proc_KdyzPadneSestka\obj\Debug\net8.0\Proc_KdyzPadneSestka.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\03\Proc_KdyzPadneSestka\Proc_KdyzPadneSestka\obj\Debug\net8.0\ref\Proc_KdyzPadneSestka.dll
