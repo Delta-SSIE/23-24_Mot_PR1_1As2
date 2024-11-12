@@ -1,0 +1,14 @@
+C:\Users\mottja\source\repos\Proc_Obracene_slovo\Proc_Obracene_slovo\bin\Debug\net8.0\Proc_Obracene_slovo.exe
+C:\Users\mottja\source\repos\Proc_Obracene_slovo\Proc_Obracene_slovo\bin\Debug\net8.0\Proc_Obracene_slovo.deps.json
+C:\Users\mottja\source\repos\Proc_Obracene_slovo\Proc_Obracene_slovo\bin\Debug\net8.0\Proc_Obracene_slovo.runtimeconfig.json
+C:\Users\mottja\source\repos\Proc_Obracene_slovo\Proc_Obracene_slovo\bin\Debug\net8.0\Proc_Obracene_slovo.dll
+C:\Users\mottja\source\repos\Proc_Obracene_slovo\Proc_Obracene_slovo\bin\Debug\net8.0\Proc_Obracene_slovo.pdb
+C:\Users\mottja\source\repos\Proc_Obracene_slovo\Proc_Obracene_slovo\obj\Debug\net8.0\Proc_Obracene_slovo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\repos\Proc_Obracene_slovo\Proc_Obracene_slovo\obj\Debug\net8.0\Proc_Obracene_slovo.AssemblyInfoInputs.cache
+C:\Users\mottja\source\repos\Proc_Obracene_slovo\Proc_Obracene_slovo\obj\Debug\net8.0\Proc_Obracene_slovo.AssemblyInfo.cs
+C:\Users\mottja\source\repos\Proc_Obracene_slovo\Proc_Obracene_slovo\obj\Debug\net8.0\Proc_Obracene_slovo.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\repos\Proc_Obracene_slovo\Proc_Obracene_slovo\obj\Debug\net8.0\Proc_Obracene_slovo.dll
+C:\Users\mottja\source\repos\Proc_Obracene_slovo\Proc_Obracene_slovo\obj\Debug\net8.0\refint\Proc_Obracene_slovo.dll
+C:\Users\mottja\source\repos\Proc_Obracene_slovo\Proc_Obracene_slovo\obj\Debug\net8.0\Proc_Obracene_slovo.pdb
+C:\Users\mottja\source\repos\Proc_Obracene_slovo\Proc_Obracene_slovo\obj\Debug\net8.0\Proc_Obracene_slovo.genruntimeconfig.cache
+C:\Users\mottja\source\repos\Proc_Obracene_slovo\Proc_Obracene_slovo\obj\Debug\net8.0\ref\Proc_Obracene_slovo.dll
