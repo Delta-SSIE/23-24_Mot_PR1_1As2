@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_Sudy_cisla\Proc_Sudy_cisla\bin\Debug\net8.0\Proc_Sudy_cisla.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_Sudy_cisla\Proc_Sudy_cisla\bin\Debug\net8.0\Proc_Sudy_cisla.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_Sudy_cisla\Proc_Sudy_cisla\bin\Debug\net8.0\Proc_Sudy_cisla.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_Sudy_cisla\Proc_Sudy_cisla\bin\Debug\net8.0\Proc_Sudy_cisla.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_Sudy_cisla\Proc_Sudy_cisla\bin\Debug\net8.0\Proc_Sudy_cisla.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_Sudy_cisla\Proc_Sudy_cisla\obj\Debug\net8.0\Proc_Sudy_cisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_Sudy_cisla\Proc_Sudy_cisla\obj\Debug\net8.0\Proc_Sudy_cisla.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_Sudy_cisla\Proc_Sudy_cisla\obj\Debug\net8.0\Proc_Sudy_cisla.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_Sudy_cisla\Proc_Sudy_cisla\obj\Debug\net8.0\Proc_Sudy_cisla.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_Sudy_cisla\Proc_Sudy_cisla\obj\Debug\net8.0\Proc_Sudy_cisla.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_Sudy_cisla\Proc_Sudy_cisla\obj\Debug\net8.0\Proc_Sudy_cisla.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_Sudy_cisla\Proc_Sudy_cisla\obj\Debug\net8.0\refint\Proc_Sudy_cisla.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_Sudy_cisla\Proc_Sudy_cisla\obj\Debug\net8.0\Proc_Sudy_cisla.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_Sudy_cisla\Proc_Sudy_cisla\obj\Debug\net8.0\Proc_Sudy_cisla.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_Sudy_cisla\Proc_Sudy_cisla\obj\Debug\net8.0\ref\Proc_Sudy_cisla.dll
