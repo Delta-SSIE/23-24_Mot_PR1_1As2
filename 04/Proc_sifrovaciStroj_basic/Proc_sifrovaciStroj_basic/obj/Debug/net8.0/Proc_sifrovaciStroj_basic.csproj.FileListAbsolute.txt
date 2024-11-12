@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_sifrovaciStroj_basic\Proc_sifrovaciStroj_basic\bin\Debug\net8.0\Proc_sifrovaciStroj_basic.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_sifrovaciStroj_basic\Proc_sifrovaciStroj_basic\bin\Debug\net8.0\Proc_sifrovaciStroj_basic.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_sifrovaciStroj_basic\Proc_sifrovaciStroj_basic\bin\Debug\net8.0\Proc_sifrovaciStroj_basic.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_sifrovaciStroj_basic\Proc_sifrovaciStroj_basic\bin\Debug\net8.0\Proc_sifrovaciStroj_basic.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_sifrovaciStroj_basic\Proc_sifrovaciStroj_basic\bin\Debug\net8.0\Proc_sifrovaciStroj_basic.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_sifrovaciStroj_basic\Proc_sifrovaciStroj_basic\obj\Debug\net8.0\Proc_sifrovaciStroj_basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_sifrovaciStroj_basic\Proc_sifrovaciStroj_basic\obj\Debug\net8.0\Proc_sifrovaciStroj_basic.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_sifrovaciStroj_basic\Proc_sifrovaciStroj_basic\obj\Debug\net8.0\Proc_sifrovaciStroj_basic.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_sifrovaciStroj_basic\Proc_sifrovaciStroj_basic\obj\Debug\net8.0\Proc_sifrovaciStroj_basic.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_sifrovaciStroj_basic\Proc_sifrovaciStroj_basic\obj\Debug\net8.0\Proc_sifrovaciStroj_basic.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_sifrovaciStroj_basic\Proc_sifrovaciStroj_basic\obj\Debug\net8.0\Proc_sifrovaciStroj_basic.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_sifrovaciStroj_basic\Proc_sifrovaciStroj_basic\obj\Debug\net8.0\refint\Proc_sifrovaciStroj_basic.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_sifrovaciStroj_basic\Proc_sifrovaciStroj_basic\obj\Debug\net8.0\Proc_sifrovaciStroj_basic.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_sifrovaciStroj_basic\Proc_sifrovaciStroj_basic\obj\Debug\net8.0\Proc_sifrovaciStroj_basic.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_sifrovaciStroj_basic\Proc_sifrovaciStroj_basic\obj\Debug\net8.0\ref\Proc_sifrovaciStroj_basic.dll
