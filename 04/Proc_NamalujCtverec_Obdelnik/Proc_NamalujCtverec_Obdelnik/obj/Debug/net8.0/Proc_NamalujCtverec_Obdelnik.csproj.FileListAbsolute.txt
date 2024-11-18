@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_NamalujCtverec_Obdelnik\Proc_NamalujCtverec_Obdelnik\bin\Debug\net8.0\Proc_NamalujCtverec_Obdelnik.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_NamalujCtverec_Obdelnik\Proc_NamalujCtverec_Obdelnik\bin\Debug\net8.0\Proc_NamalujCtverec_Obdelnik.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_NamalujCtverec_Obdelnik\Proc_NamalujCtverec_Obdelnik\bin\Debug\net8.0\Proc_NamalujCtverec_Obdelnik.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_NamalujCtverec_Obdelnik\Proc_NamalujCtverec_Obdelnik\bin\Debug\net8.0\Proc_NamalujCtverec_Obdelnik.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_NamalujCtverec_Obdelnik\Proc_NamalujCtverec_Obdelnik\bin\Debug\net8.0\Proc_NamalujCtverec_Obdelnik.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_NamalujCtverec_Obdelnik\Proc_NamalujCtverec_Obdelnik\obj\Debug\net8.0\Proc_NamalujCtverec_Obdelnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_NamalujCtverec_Obdelnik\Proc_NamalujCtverec_Obdelnik\obj\Debug\net8.0\Proc_NamalujCtverec_Obdelnik.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_NamalujCtverec_Obdelnik\Proc_NamalujCtverec_Obdelnik\obj\Debug\net8.0\Proc_NamalujCtverec_Obdelnik.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_NamalujCtverec_Obdelnik\Proc_NamalujCtverec_Obdelnik\obj\Debug\net8.0\Proc_NamalujCtverec_Obdelnik.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_NamalujCtverec_Obdelnik\Proc_NamalujCtverec_Obdelnik\obj\Debug\net8.0\Proc_NamalujCtverec_Obdelnik.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_NamalujCtverec_Obdelnik\Proc_NamalujCtverec_Obdelnik\obj\Debug\net8.0\Proc_NamalujCtverec_Obdelnik.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_NamalujCtverec_Obdelnik\Proc_NamalujCtverec_Obdelnik\obj\Debug\net8.0\refint\Proc_NamalujCtverec_Obdelnik.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_NamalujCtverec_Obdelnik\Proc_NamalujCtverec_Obdelnik\obj\Debug\net8.0\Proc_NamalujCtverec_Obdelnik.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_NamalujCtverec_Obdelnik\Proc_NamalujCtverec_Obdelnik\obj\Debug\net8.0\Proc_NamalujCtverec_Obdelnik.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_NamalujCtverec_Obdelnik\Proc_NamalujCtverec_Obdelnik\obj\Debug\net8.0\ref\Proc_NamalujCtverec_Obdelnik.dll
