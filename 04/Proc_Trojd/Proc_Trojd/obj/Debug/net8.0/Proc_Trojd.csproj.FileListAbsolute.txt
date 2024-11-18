@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_Trojd\Proc_Trojd\bin\Debug\net8.0\Proc_Trojd.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_Trojd\Proc_Trojd\bin\Debug\net8.0\Proc_Trojd.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_Trojd\Proc_Trojd\bin\Debug\net8.0\Proc_Trojd.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_Trojd\Proc_Trojd\bin\Debug\net8.0\Proc_Trojd.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_Trojd\Proc_Trojd\bin\Debug\net8.0\Proc_Trojd.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_Trojd\Proc_Trojd\obj\Debug\net8.0\Proc_Trojd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_Trojd\Proc_Trojd\obj\Debug\net8.0\Proc_Trojd.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_Trojd\Proc_Trojd\obj\Debug\net8.0\Proc_Trojd.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_Trojd\Proc_Trojd\obj\Debug\net8.0\Proc_Trojd.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_Trojd\Proc_Trojd\obj\Debug\net8.0\Proc_Trojd.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_Trojd\Proc_Trojd\obj\Debug\net8.0\Proc_Trojd.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_Trojd\Proc_Trojd\obj\Debug\net8.0\refint\Proc_Trojd.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_Trojd\Proc_Trojd\obj\Debug\net8.0\Proc_Trojd.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_Trojd\Proc_Trojd\obj\Debug\net8.0\Proc_Trojd.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\04\Proc_Trojd\Proc_Trojd\obj\Debug\net8.0\ref\Proc_Trojd.dll
