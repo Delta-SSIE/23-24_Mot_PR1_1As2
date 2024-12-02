@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_DelkaRetezcu\Proc_DelkaRetezcu\bin\Debug\net8.0\Proc_DelkaRetezcu.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_DelkaRetezcu\Proc_DelkaRetezcu\bin\Debug\net8.0\Proc_DelkaRetezcu.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_DelkaRetezcu\Proc_DelkaRetezcu\bin\Debug\net8.0\Proc_DelkaRetezcu.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_DelkaRetezcu\Proc_DelkaRetezcu\bin\Debug\net8.0\Proc_DelkaRetezcu.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_DelkaRetezcu\Proc_DelkaRetezcu\bin\Debug\net8.0\Proc_DelkaRetezcu.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_DelkaRetezcu\Proc_DelkaRetezcu\obj\Debug\net8.0\Proc_DelkaRetezcu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_DelkaRetezcu\Proc_DelkaRetezcu\obj\Debug\net8.0\Proc_DelkaRetezcu.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_DelkaRetezcu\Proc_DelkaRetezcu\obj\Debug\net8.0\Proc_DelkaRetezcu.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_DelkaRetezcu\Proc_DelkaRetezcu\obj\Debug\net8.0\Proc_DelkaRetezcu.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_DelkaRetezcu\Proc_DelkaRetezcu\obj\Debug\net8.0\Proc_DelkaRetezcu.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_DelkaRetezcu\Proc_DelkaRetezcu\obj\Debug\net8.0\Proc_DelkaRetezcu.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_DelkaRetezcu\Proc_DelkaRetezcu\obj\Debug\net8.0\refint\Proc_DelkaRetezcu.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_DelkaRetezcu\Proc_DelkaRetezcu\obj\Debug\net8.0\Proc_DelkaRetezcu.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_DelkaRetezcu\Proc_DelkaRetezcu\obj\Debug\net8.0\Proc_DelkaRetezcu.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_DelkaRetezcu\Proc_DelkaRetezcu\obj\Debug\net8.0\ref\Proc_DelkaRetezcu.dll
