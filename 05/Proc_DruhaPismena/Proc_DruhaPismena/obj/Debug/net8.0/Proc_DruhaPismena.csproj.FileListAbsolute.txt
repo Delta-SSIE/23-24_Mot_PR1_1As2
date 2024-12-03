@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\05\Proc_DruhaPismena\Proc_DruhaPismena\bin\Debug\net8.0\Proc_DruhaPismena.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\05\Proc_DruhaPismena\Proc_DruhaPismena\bin\Debug\net8.0\Proc_DruhaPismena.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\05\Proc_DruhaPismena\Proc_DruhaPismena\bin\Debug\net8.0\Proc_DruhaPismena.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\05\Proc_DruhaPismena\Proc_DruhaPismena\bin\Debug\net8.0\Proc_DruhaPismena.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\05\Proc_DruhaPismena\Proc_DruhaPismena\bin\Debug\net8.0\Proc_DruhaPismena.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\05\Proc_DruhaPismena\Proc_DruhaPismena\obj\Debug\net8.0\Proc_DruhaPismena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\05\Proc_DruhaPismena\Proc_DruhaPismena\obj\Debug\net8.0\Proc_DruhaPismena.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\05\Proc_DruhaPismena\Proc_DruhaPismena\obj\Debug\net8.0\Proc_DruhaPismena.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\05\Proc_DruhaPismena\Proc_DruhaPismena\obj\Debug\net8.0\Proc_DruhaPismena.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\05\Proc_DruhaPismena\Proc_DruhaPismena\obj\Debug\net8.0\Proc_DruhaPismena.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\05\Proc_DruhaPismena\Proc_DruhaPismena\obj\Debug\net8.0\Proc_DruhaPismena.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\05\Proc_DruhaPismena\Proc_DruhaPismena\obj\Debug\net8.0\refint\Proc_DruhaPismena.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\05\Proc_DruhaPismena\Proc_DruhaPismena\obj\Debug\net8.0\Proc_DruhaPismena.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\05\Proc_DruhaPismena\Proc_DruhaPismena\obj\Debug\net8.0\Proc_DruhaPismena.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\05\Proc_DruhaPismena\Proc_DruhaPismena\obj\Debug\net8.0\ref\Proc_DruhaPismena.dll
