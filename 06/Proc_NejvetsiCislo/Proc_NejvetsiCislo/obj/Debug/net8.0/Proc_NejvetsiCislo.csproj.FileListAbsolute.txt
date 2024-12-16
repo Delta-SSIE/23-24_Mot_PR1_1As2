@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_NejvetsiCislo\Proc_NejvetsiCislo\bin\Debug\net8.0\Proc_NejvetsiCislo.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_NejvetsiCislo\Proc_NejvetsiCislo\bin\Debug\net8.0\Proc_NejvetsiCislo.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_NejvetsiCislo\Proc_NejvetsiCislo\bin\Debug\net8.0\Proc_NejvetsiCislo.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_NejvetsiCislo\Proc_NejvetsiCislo\bin\Debug\net8.0\Proc_NejvetsiCislo.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_NejvetsiCislo\Proc_NejvetsiCislo\bin\Debug\net8.0\Proc_NejvetsiCislo.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_NejvetsiCislo\Proc_NejvetsiCislo\obj\Debug\net8.0\Proc_NejvetsiCislo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_NejvetsiCislo\Proc_NejvetsiCislo\obj\Debug\net8.0\Proc_NejvetsiCislo.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_NejvetsiCislo\Proc_NejvetsiCislo\obj\Debug\net8.0\Proc_NejvetsiCislo.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_NejvetsiCislo\Proc_NejvetsiCislo\obj\Debug\net8.0\Proc_NejvetsiCislo.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_NejvetsiCislo\Proc_NejvetsiCislo\obj\Debug\net8.0\Proc_NejvetsiCislo.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_NejvetsiCislo\Proc_NejvetsiCislo\obj\Debug\net8.0\Proc_NejvetsiCislo.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_NejvetsiCislo\Proc_NejvetsiCislo\obj\Debug\net8.0\refint\Proc_NejvetsiCislo.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_NejvetsiCislo\Proc_NejvetsiCislo\obj\Debug\net8.0\Proc_NejvetsiCislo.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_NejvetsiCislo\Proc_NejvetsiCislo\obj\Debug\net8.0\Proc_NejvetsiCislo.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_NejvetsiCislo\Proc_NejvetsiCislo\obj\Debug\net8.0\ref\Proc_NejvetsiCislo.dll
