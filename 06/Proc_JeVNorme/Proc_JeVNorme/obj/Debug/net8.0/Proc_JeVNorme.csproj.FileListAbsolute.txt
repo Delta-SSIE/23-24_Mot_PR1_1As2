@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_JeVNorme\Proc_JeVNorme\bin\Debug\net8.0\Proc_JeVNorme.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_JeVNorme\Proc_JeVNorme\bin\Debug\net8.0\Proc_JeVNorme.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_JeVNorme\Proc_JeVNorme\bin\Debug\net8.0\Proc_JeVNorme.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_JeVNorme\Proc_JeVNorme\bin\Debug\net8.0\Proc_JeVNorme.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_JeVNorme\Proc_JeVNorme\bin\Debug\net8.0\Proc_JeVNorme.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_JeVNorme\Proc_JeVNorme\obj\Debug\net8.0\Proc_JeVNorme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_JeVNorme\Proc_JeVNorme\obj\Debug\net8.0\Proc_JeVNorme.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_JeVNorme\Proc_JeVNorme\obj\Debug\net8.0\Proc_JeVNorme.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_JeVNorme\Proc_JeVNorme\obj\Debug\net8.0\Proc_JeVNorme.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_JeVNorme\Proc_JeVNorme\obj\Debug\net8.0\Proc_JeVNorme.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_JeVNorme\Proc_JeVNorme\obj\Debug\net8.0\Proc_JeVNorme.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_JeVNorme\Proc_JeVNorme\obj\Debug\net8.0\refint\Proc_JeVNorme.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_JeVNorme\Proc_JeVNorme\obj\Debug\net8.0\Proc_JeVNorme.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_JeVNorme\Proc_JeVNorme\obj\Debug\net8.0\Proc_JeVNorme.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_JeVNorme\Proc_JeVNorme\obj\Debug\net8.0\ref\Proc_JeVNorme.dll
