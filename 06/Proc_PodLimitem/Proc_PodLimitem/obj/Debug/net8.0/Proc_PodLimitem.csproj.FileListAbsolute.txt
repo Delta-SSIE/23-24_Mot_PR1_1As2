@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_PodLimitem\Proc_PodLimitem\bin\Debug\net8.0\Proc_PodLimitem.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_PodLimitem\Proc_PodLimitem\bin\Debug\net8.0\Proc_PodLimitem.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_PodLimitem\Proc_PodLimitem\bin\Debug\net8.0\Proc_PodLimitem.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_PodLimitem\Proc_PodLimitem\bin\Debug\net8.0\Proc_PodLimitem.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_PodLimitem\Proc_PodLimitem\bin\Debug\net8.0\Proc_PodLimitem.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_PodLimitem\Proc_PodLimitem\obj\Debug\net8.0\Proc_PodLimitem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_PodLimitem\Proc_PodLimitem\obj\Debug\net8.0\Proc_PodLimitem.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_PodLimitem\Proc_PodLimitem\obj\Debug\net8.0\Proc_PodLimitem.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_PodLimitem\Proc_PodLimitem\obj\Debug\net8.0\Proc_PodLimitem.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_PodLimitem\Proc_PodLimitem\obj\Debug\net8.0\Proc_PodLimitem.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_PodLimitem\Proc_PodLimitem\obj\Debug\net8.0\Proc_PodLimitem.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_PodLimitem\Proc_PodLimitem\obj\Debug\net8.0\refint\Proc_PodLimitem.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_PodLimitem\Proc_PodLimitem\obj\Debug\net8.0\Proc_PodLimitem.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_PodLimitem\Proc_PodLimitem\obj\Debug\net8.0\Proc_PodLimitem.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\06\Proc_PodLimitem\Proc_PodLimitem\obj\Debug\net8.0\ref\Proc_PodLimitem.dll
