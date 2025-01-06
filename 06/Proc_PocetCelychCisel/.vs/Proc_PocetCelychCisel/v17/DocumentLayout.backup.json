@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mottja\\source\\PR1-1A-2S(2024)\\06\\Proc_PocetCelychCisel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13AAE97F-4B74-4042-A117-20BD476A04F3}|Proc_PocetCelychCisel\\Proc_PocetCelychCisel.csproj|c:\\users\\mottja\\source\\pr1-1a-2s(2024)\\06\\proc_pocetcelychcisel\\proc_pocetcelychcisel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AAE97F-4B74-4042-A117-20BD476A04F3}|Proc_PocetCelychCisel\\Proc_PocetCelychCisel.csproj|solutionrelative:proc_pocetcelychcisel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1A-2S(2024)\\06\\Proc_PocetCelychCisel\\Proc_PocetCelychCisel\\Program.cs",
+              "RelativeDocumentMoniker": "Proc_PocetCelychCisel\\Program.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1A-2S(2024)\\06\\Proc_PocetCelychCisel\\Proc_PocetCelychCisel\\Program.cs",
+              "RelativeToolTip": "Proc_PocetCelychCisel\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T09:06:58.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

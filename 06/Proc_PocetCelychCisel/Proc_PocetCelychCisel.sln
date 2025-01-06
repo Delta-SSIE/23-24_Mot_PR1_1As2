@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proc_PocetCelychCisel", "Proc_PocetCelychCisel\Proc_PocetCelychCisel.csproj", "{13AAE97F-4B74-4042-A117-20BD476A04F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13AAE97F-4B74-4042-A117-20BD476A04F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13AAE97F-4B74-4042-A117-20BD476A04F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13AAE97F-4B74-4042-A117-20BD476A04F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13AAE97F-4B74-4042-A117-20BD476A04F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D250E7FA-6F72-4221-80F4-D83F6604458F}
+	EndGlobalSection
+EndGlobal
