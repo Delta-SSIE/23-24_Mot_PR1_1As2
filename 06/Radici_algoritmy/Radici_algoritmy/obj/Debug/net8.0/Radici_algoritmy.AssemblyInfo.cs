@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Radici_algoritmy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dba981ee698228f4f61dc4b6d9b50963366a303")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcb5fcb53f62c9bca40c3f7d66b29fc0887820b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Radici_algoritmy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Radici_algoritmy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

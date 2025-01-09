@@ -1,4 +1,6 @@
-﻿namespace Radici_algoritmy
+﻿using System.Diagnostics;
+
+namespace Radici_algoritmy
 {
     internal class Program
     {
@@ -8,27 +10,70 @@
             VypisPole(m_pole);
             VypisPole(NajdiMin(m_pole));
             VypisPole(NajdiMax(m_pole));
-            int[] s_pole = { 21, 3, 10, 8, 13, 6 };
-            VypisPole(SelectionSort(s_pole));
-            int[] b_pole = { 21, 3, 10, 8, 13, 6 };
-            VypisPole(BubbleSort(b_pole));
+            Stopwatch stopwatch = new Stopwatch();
+
+            stopwatch.Start();
+            int[] s_pole = NaplnNahodne(1000);
+            int[] s = SelectionSort(s_pole);
+            stopwatch.Stop();
+            Console.WriteLine("Time elapsed: {0:hh\\:mm\\:ss}", stopwatch.Elapsed);
+            stopwatch.Reset();
+            stopwatch.Start();
+            int[] b_pole = NaplnNahodne(1000);
+            int[] b = BubbleSort(s_pole);
+            stopwatch.Stop();
+            Console.WriteLine("Time elapsed: {0:hh\\:mm\\:ss}", stopwatch.Elapsed);
+            stopwatch.Reset();
+            stopwatch.Start();
+            int[] met_pole = NaplnNahodne(100000000);
+            Array.Sort(met_pole);
+            stopwatch.Stop();
+            Console.WriteLine("Time elapsed: {0:hh\\:mm\\:ss}", stopwatch.Elapsed);
+
 
         }
 
+        static int[] NaplnNahodne(int pocet)
+        {
+            int[] pole = new int[pocet];
+            Random gen = new Random();
+            for (int i = 0; i < pole.Length; i++)
+            {
+                pole[i] = gen.Next(0, 100001);
+            }
+            return pole;
+        }
+ 
         static int[] BubbleSort(int[] pole)
         {
-
+            int kroky = 0;
+            for (int i = 1; i < pole.Length; i++)
+            {
+                kroky++;
+                for (int j = 0; j < pole.Length-i; j++)
+                {
+                    kroky++;
+                    if (pole[j] > pole[j + 1])
+                    {
+                        pole = Prohod(pole, j, j + 1);
+                    }
+                }
+            }
+            Console.WriteLine(kroky);
             return pole;
         }
 
         static int[] SelectionSort(int[] pole)
         {
+            int kroky = 0;
             int iMin = 0;
             for (int i = 0; i < pole.Length; i++) //Vnější cyklus
             {
+                kroky++;
                 iMin = i;
                 for (int j = i; j < pole.Length; j++) //Vnitřní cyklus
                 {
+                    kroky++;
                     if (pole[iMin] > pole[j])
                     {
                         iMin = j;
@@ -38,6 +83,7 @@
                 pole = Prohod(pole, iMin, i);
                 
             }
+            Console.WriteLine(kroky);
             return pole;
         }
         static int[] NajdiMax(int[] array)
