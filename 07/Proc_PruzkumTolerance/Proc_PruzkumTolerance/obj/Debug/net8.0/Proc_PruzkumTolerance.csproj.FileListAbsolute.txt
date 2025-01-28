@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_PruzkumTolerance\Proc_PruzkumTolerance\bin\Debug\net8.0\Proc_PruzkumTolerance.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_PruzkumTolerance\Proc_PruzkumTolerance\bin\Debug\net8.0\Proc_PruzkumTolerance.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_PruzkumTolerance\Proc_PruzkumTolerance\bin\Debug\net8.0\Proc_PruzkumTolerance.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_PruzkumTolerance\Proc_PruzkumTolerance\bin\Debug\net8.0\Proc_PruzkumTolerance.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_PruzkumTolerance\Proc_PruzkumTolerance\bin\Debug\net8.0\Proc_PruzkumTolerance.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_PruzkumTolerance\Proc_PruzkumTolerance\obj\Debug\net8.0\Proc_PruzkumTolerance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_PruzkumTolerance\Proc_PruzkumTolerance\obj\Debug\net8.0\Proc_PruzkumTolerance.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_PruzkumTolerance\Proc_PruzkumTolerance\obj\Debug\net8.0\Proc_PruzkumTolerance.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_PruzkumTolerance\Proc_PruzkumTolerance\obj\Debug\net8.0\Proc_PruzkumTolerance.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_PruzkumTolerance\Proc_PruzkumTolerance\obj\Debug\net8.0\Proc_PruzkumTolerance.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_PruzkumTolerance\Proc_PruzkumTolerance\obj\Debug\net8.0\Proc_PruzkumTolerance.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_PruzkumTolerance\Proc_PruzkumTolerance\obj\Debug\net8.0\refint\Proc_PruzkumTolerance.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_PruzkumTolerance\Proc_PruzkumTolerance\obj\Debug\net8.0\Proc_PruzkumTolerance.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_PruzkumTolerance\Proc_PruzkumTolerance\obj\Debug\net8.0\Proc_PruzkumTolerance.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_PruzkumTolerance\Proc_PruzkumTolerance\obj\Debug\net8.0\ref\Proc_PruzkumTolerance.dll
