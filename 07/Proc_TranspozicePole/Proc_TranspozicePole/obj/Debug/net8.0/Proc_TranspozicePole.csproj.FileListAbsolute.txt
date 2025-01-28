@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_TranspozicePole\Proc_TranspozicePole\obj\Debug\net8.0\Proc_TranspozicePole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_TranspozicePole\Proc_TranspozicePole\obj\Debug\net8.0\Proc_TranspozicePole.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_TranspozicePole\Proc_TranspozicePole\obj\Debug\net8.0\Proc_TranspozicePole.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_TranspozicePole\Proc_TranspozicePole\obj\Debug\net8.0\Proc_TranspozicePole.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_TranspozicePole\Proc_TranspozicePole\obj\Debug\net8.0\Proc_TranspozicePole.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_TranspozicePole\Proc_TranspozicePole\bin\Debug\net8.0\Proc_TranspozicePole.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_TranspozicePole\Proc_TranspozicePole\bin\Debug\net8.0\Proc_TranspozicePole.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_TranspozicePole\Proc_TranspozicePole\bin\Debug\net8.0\Proc_TranspozicePole.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_TranspozicePole\Proc_TranspozicePole\bin\Debug\net8.0\Proc_TranspozicePole.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_TranspozicePole\Proc_TranspozicePole\bin\Debug\net8.0\Proc_TranspozicePole.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_TranspozicePole\Proc_TranspozicePole\obj\Debug\net8.0\Proc_TranspozicePole.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_TranspozicePole\Proc_TranspozicePole\obj\Debug\net8.0\refint\Proc_TranspozicePole.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_TranspozicePole\Proc_TranspozicePole\obj\Debug\net8.0\Proc_TranspozicePole.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_TranspozicePole\Proc_TranspozicePole\obj\Debug\net8.0\Proc_TranspozicePole.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_TranspozicePole\Proc_TranspozicePole\obj\Debug\net8.0\ref\Proc_TranspozicePole.dll
