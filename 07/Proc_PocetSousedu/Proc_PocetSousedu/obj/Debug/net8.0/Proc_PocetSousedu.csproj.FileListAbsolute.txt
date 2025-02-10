@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_PocetSousedu\Proc_PocetSousedu\obj\Debug\net8.0\Proc_PocetSousedu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_PocetSousedu\Proc_PocetSousedu\obj\Debug\net8.0\Proc_PocetSousedu.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_PocetSousedu\Proc_PocetSousedu\obj\Debug\net8.0\Proc_PocetSousedu.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_PocetSousedu\Proc_PocetSousedu\obj\Debug\net8.0\Proc_PocetSousedu.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_PocetSousedu\Proc_PocetSousedu\obj\Debug\net8.0\Proc_PocetSousedu.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_PocetSousedu\Proc_PocetSousedu\bin\Debug\net8.0\Proc_PocetSousedu.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_PocetSousedu\Proc_PocetSousedu\bin\Debug\net8.0\Proc_PocetSousedu.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_PocetSousedu\Proc_PocetSousedu\bin\Debug\net8.0\Proc_PocetSousedu.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_PocetSousedu\Proc_PocetSousedu\bin\Debug\net8.0\Proc_PocetSousedu.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_PocetSousedu\Proc_PocetSousedu\bin\Debug\net8.0\Proc_PocetSousedu.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_PocetSousedu\Proc_PocetSousedu\obj\Debug\net8.0\Proc_PocetSousedu.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_PocetSousedu\Proc_PocetSousedu\obj\Debug\net8.0\refint\Proc_PocetSousedu.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_PocetSousedu\Proc_PocetSousedu\obj\Debug\net8.0\Proc_PocetSousedu.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_PocetSousedu\Proc_PocetSousedu\obj\Debug\net8.0\Proc_PocetSousedu.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\07\Proc_PocetSousedu\Proc_PocetSousedu\obj\Debug\net8.0\ref\Proc_PocetSousedu.dll

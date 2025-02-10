@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\Opakovani_2DPole\Opakovani_2DPole\bin\Debug\net8.0\Opakovani_2DPole.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\Opakovani_2DPole\Opakovani_2DPole\bin\Debug\net8.0\Opakovani_2DPole.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\Opakovani_2DPole\Opakovani_2DPole\bin\Debug\net8.0\Opakovani_2DPole.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\Opakovani_2DPole\Opakovani_2DPole\bin\Debug\net8.0\Opakovani_2DPole.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\Opakovani_2DPole\Opakovani_2DPole\bin\Debug\net8.0\Opakovani_2DPole.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\Opakovani_2DPole\Opakovani_2DPole\obj\Debug\net8.0\Opakovani_2DPole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\Opakovani_2DPole\Opakovani_2DPole\obj\Debug\net8.0\Opakovani_2DPole.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\Opakovani_2DPole\Opakovani_2DPole\obj\Debug\net8.0\Opakovani_2DPole.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\Opakovani_2DPole\Opakovani_2DPole\obj\Debug\net8.0\Opakovani_2DPole.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\Opakovani_2DPole\Opakovani_2DPole\obj\Debug\net8.0\Opakovani_2DPole.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\Opakovani_2DPole\Opakovani_2DPole\obj\Debug\net8.0\Opakovani_2DPole.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\Opakovani_2DPole\Opakovani_2DPole\obj\Debug\net8.0\refint\Opakovani_2DPole.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\Opakovani_2DPole\Opakovani_2DPole\obj\Debug\net8.0\Opakovani_2DPole.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\Opakovani_2DPole\Opakovani_2DPole\obj\Debug\net8.0\Opakovani_2DPole.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\Opakovani_2DPole\Opakovani_2DPole\obj\Debug\net8.0\ref\Opakovani_2DPole.dll
