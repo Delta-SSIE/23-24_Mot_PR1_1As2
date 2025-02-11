@@ -5,7 +5,8 @@
         static void Main(string[] args)
         {
             int velikost_mapy = 0;
-            
+            Random gen = new Random();
+
             Console.WriteLine("Ahoj, vítej ve hře Lodí! \nJak velkou hrací plochu chceš?");
             while(!int.TryParse(Console.ReadLine(),out velikost_mapy))
             {
@@ -18,9 +19,65 @@
             int[,] protihrac_pole = GenerovaniMapy(velikost_mapy);
 
             //Vkládání 1-lodí do pole
-            hrac_pole = VlozJednaLode(hrac_pole, 3, true);
+            hrac_pole = VlozJednaLode(hrac_pole, 3, false);
             protihrac_pole = VlozJednaLode(protihrac_pole, 3, false);
 
+            //Zahájení hry
+            while(PocetLodi(hrac_pole) > 0 && PocetLodi(protihrac_pole) > 0)
+            {
+                Console.Clear();
+                Console.WriteLine("Vaše hrací pole:");
+                VypisMapy(hrac_pole);
+                Console.WriteLine("Pole střel:");
+                VypisMapy(hrac_strely);
+                Console.WriteLine($"Počet vašich lodí: {PocetLodi(hrac_pole)} \nPočet lodí nepřítele: {PocetLodi(protihrac_pole)}");
+
+                //Střelba
+                int x = OverSouradnici(protihrac_pole.GetLength(1), 'x');
+                int y = OverSouradnici(protihrac_pole.GetLength(0), 'y');
+                if (protihrac_pole[y,x] == 3)
+                {
+                    Console.WriteLine("Zásah!");
+                    protihrac_pole[y, x] = 2;
+                    hrac_strely[y, x] = 2;
+                } else
+                {
+                    Console.WriteLine("Minuls!");
+                    protihrac_pole[y, x] = 1;
+                    hrac_strely[y, x] = 1;
+                }
+
+                //Střelba AI
+                do
+                {
+                    x = gen.Next(0, hrac_pole.GetLength(1));
+                    y = gen.Next(0, hrac_pole.GetLength(0));
+                } while (hrac_pole[y, x] == 2 || hrac_pole[y, x] == 1);
+                if (hrac_pole[y, x] == 3)
+                {
+                    Console.WriteLine("Zásah!");
+                    hrac_pole[y, x] = 2;
+                }
+                else
+                {
+                    Console.WriteLine("Minuls!");
+                    hrac_pole[y, x] = 1;
+                }
+            }
+
+        }
+
+        static int PocetLodi(int[,] mapa)
+        {
+            int p = 0;
+            foreach (int souradnice in mapa)
+            {
+                if(souradnice == 3)
+                {
+                    p++;
+                }
+            }
+            return p;
         }
 
         static int[,] VlozJednaLode(int[,] mapa, int pocetL, bool hrac)
