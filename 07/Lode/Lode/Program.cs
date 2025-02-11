@@ -17,9 +17,58 @@
             int[,] hrac_strely = GenerovaniMapy(velikost_mapy);
             int[,] protihrac_pole = GenerovaniMapy(velikost_mapy);
 
-           
+            //Vkládání 1-lodí do pole
+            hrac_pole = VlozJednaLode(hrac_pole, 3, true);
+            protihrac_pole = VlozJednaLode(protihrac_pole, 3, false);
 
         }
+
+        static int[,] VlozJednaLode(int[,] mapa, int pocetL, bool hrac)
+        {
+            int x = 0;
+            int y = 0;
+            Random gen = new Random();
+
+            for (int i = 0; i < pocetL; i++)
+            {
+                if(hrac)
+                {
+                    VypisMapy(mapa);
+                    x = OverSouradnici(mapa.GetLength(1),'x');
+                    y = OverSouradnici(mapa.GetLength(0),'y');
+                    Console.Clear();
+                } else
+                {
+                    //Ai generování
+                    do
+                    {
+                        x = gen.Next(0, mapa.GetLength(1));
+                        y = gen.Next(0, mapa.GetLength(0));
+                    } while (mapa[y, x] == 3);
+                }
+                mapa[y, x] = 3;
+            }
+            return mapa;
+        }
+
+        static int OverSouradnici(int strana, char osa)
+        {
+            int souradnice = 0;
+            Console.WriteLine($"Zadej mi souřadnici pro osu {osa}:");
+            while (!int.TryParse(Console.ReadLine(), out souradnice))
+            {
+                Console.WriteLine("Zadej celé číslo");
+            }
+            if(souradnice >= 0 && souradnice < strana)
+            {
+                return souradnice;
+            } else
+            {
+                Console.WriteLine("Zadal si souřadnici mimo rozměr");
+                OverSouradnici(strana,osa);
+            }
+            return souradnice;
+        } 
 
         static void VypisMapy(int[,] mapa)
         {
