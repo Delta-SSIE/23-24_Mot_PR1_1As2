@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\UvodOOP\UvodOOP\bin\Debug\net8.0\UvodOOP.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\UvodOOP\UvodOOP\bin\Debug\net8.0\UvodOOP.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\UvodOOP\UvodOOP\bin\Debug\net8.0\UvodOOP.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\UvodOOP\UvodOOP\bin\Debug\net8.0\UvodOOP.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\UvodOOP\UvodOOP\bin\Debug\net8.0\UvodOOP.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\UvodOOP\UvodOOP\obj\Debug\net8.0\UvodOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\UvodOOP\UvodOOP\obj\Debug\net8.0\UvodOOP.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\UvodOOP\UvodOOP\obj\Debug\net8.0\UvodOOP.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\UvodOOP\UvodOOP\obj\Debug\net8.0\UvodOOP.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\UvodOOP\UvodOOP\obj\Debug\net8.0\UvodOOP.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\UvodOOP\UvodOOP\obj\Debug\net8.0\UvodOOP.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\UvodOOP\UvodOOP\obj\Debug\net8.0\refint\UvodOOP.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\UvodOOP\UvodOOP\obj\Debug\net8.0\UvodOOP.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\UvodOOP\UvodOOP\obj\Debug\net8.0\UvodOOP.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\UvodOOP\UvodOOP\obj\Debug\net8.0\ref\UvodOOP.dll
