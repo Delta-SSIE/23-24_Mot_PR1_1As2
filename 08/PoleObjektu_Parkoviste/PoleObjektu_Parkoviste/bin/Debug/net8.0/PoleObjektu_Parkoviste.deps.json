@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PoleObjektu_Parkoviste/1.0.0": {
+        "runtime": {
+          "PoleObjektu_Parkoviste.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PoleObjektu_Parkoviste/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

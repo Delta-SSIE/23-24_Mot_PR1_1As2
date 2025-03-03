@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PoleObjektu_Parkoviste")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a37fb12b60b6031b4685bf0c5f8c090aedacf3c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09330c7833d818603ef1b99796048a9759d3cbeb")]
 [assembly: System.Reflection.AssemblyProductAttribute("PoleObjektu_Parkoviste")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PoleObjektu_Parkoviste")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
