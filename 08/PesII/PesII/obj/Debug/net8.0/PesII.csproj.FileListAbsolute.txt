@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\PesII\PesII\bin\Debug\net8.0\PesII.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\PesII\PesII\bin\Debug\net8.0\PesII.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\PesII\PesII\bin\Debug\net8.0\PesII.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\PesII\PesII\bin\Debug\net8.0\PesII.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\PesII\PesII\bin\Debug\net8.0\PesII.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\PesII\PesII\obj\Debug\net8.0\PesII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\PesII\PesII\obj\Debug\net8.0\PesII.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\PesII\PesII\obj\Debug\net8.0\PesII.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\PesII\PesII\obj\Debug\net8.0\PesII.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\PesII\PesII\obj\Debug\net8.0\PesII.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\PesII\PesII\obj\Debug\net8.0\PesII.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\PesII\PesII\obj\Debug\net8.0\refint\PesII.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\PesII\PesII\obj\Debug\net8.0\PesII.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\PesII\PesII\obj\Debug\net8.0\PesII.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\PesII\PesII\obj\Debug\net8.0\ref\PesII.dll
