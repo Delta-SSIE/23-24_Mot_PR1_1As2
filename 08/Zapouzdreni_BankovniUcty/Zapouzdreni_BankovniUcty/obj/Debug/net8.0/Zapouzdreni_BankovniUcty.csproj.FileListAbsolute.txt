@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\Zapouzdreni_BankovniUcty\Zapouzdreni_BankovniUcty\bin\Debug\net8.0\Zapouzdreni_BankovniUcty.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\Zapouzdreni_BankovniUcty\Zapouzdreni_BankovniUcty\bin\Debug\net8.0\Zapouzdreni_BankovniUcty.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\Zapouzdreni_BankovniUcty\Zapouzdreni_BankovniUcty\bin\Debug\net8.0\Zapouzdreni_BankovniUcty.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\Zapouzdreni_BankovniUcty\Zapouzdreni_BankovniUcty\bin\Debug\net8.0\Zapouzdreni_BankovniUcty.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\Zapouzdreni_BankovniUcty\Zapouzdreni_BankovniUcty\bin\Debug\net8.0\Zapouzdreni_BankovniUcty.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\Zapouzdreni_BankovniUcty\Zapouzdreni_BankovniUcty\obj\Debug\net8.0\Zapouzdreni_BankovniUcty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\Zapouzdreni_BankovniUcty\Zapouzdreni_BankovniUcty\obj\Debug\net8.0\Zapouzdreni_BankovniUcty.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\Zapouzdreni_BankovniUcty\Zapouzdreni_BankovniUcty\obj\Debug\net8.0\Zapouzdreni_BankovniUcty.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\Zapouzdreni_BankovniUcty\Zapouzdreni_BankovniUcty\obj\Debug\net8.0\Zapouzdreni_BankovniUcty.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\Zapouzdreni_BankovniUcty\Zapouzdreni_BankovniUcty\obj\Debug\net8.0\Zapouzdreni_BankovniUcty.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\Zapouzdreni_BankovniUcty\Zapouzdreni_BankovniUcty\obj\Debug\net8.0\Zapouzdreni_BankovniUcty.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\Zapouzdreni_BankovniUcty\Zapouzdreni_BankovniUcty\obj\Debug\net8.0\refint\Zapouzdreni_BankovniUcty.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\Zapouzdreni_BankovniUcty\Zapouzdreni_BankovniUcty\obj\Debug\net8.0\Zapouzdreni_BankovniUcty.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\Zapouzdreni_BankovniUcty\Zapouzdreni_BankovniUcty\obj\Debug\net8.0\Zapouzdreni_BankovniUcty.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\Zapouzdreni_BankovniUcty\Zapouzdreni_BankovniUcty\obj\Debug\net8.0\ref\Zapouzdreni_BankovniUcty.dll
