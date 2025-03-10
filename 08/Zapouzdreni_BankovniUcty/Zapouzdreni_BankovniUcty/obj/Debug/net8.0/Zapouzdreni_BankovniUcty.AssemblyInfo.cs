@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zapouzdreni_BankovniUcty")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24c30fc3f504f64d13b4638bb2ac38277c17da0a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48db235b8a9f4e714bb6bff0baf7c50e8b66e8d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zapouzdreni_BankovniUcty")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zapouzdreni_BankovniUcty")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
