@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mottja\\source\\PR1-1A-2S(2024)\\08\\VozovyPark\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB76A03E-268B-43D5-A878-9411EC5081C8}|VozovyPark\\VozovyPark.csproj|c:\\users\\mottja\\source\\pr1-1a-2s(2024)\\08\\vozovypark\\vozovypark\\prodejce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB76A03E-268B-43D5-A878-9411EC5081C8}|VozovyPark\\VozovyPark.csproj|solutionrelative:vozovypark\\prodejce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB76A03E-268B-43D5-A878-9411EC5081C8}|VozovyPark\\VozovyPark.csproj|c:\\users\\mottja\\source\\pr1-1a-2s(2024)\\08\\vozovypark\\vozovypark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB76A03E-268B-43D5-A878-9411EC5081C8}|VozovyPark\\VozovyPark.csproj|solutionrelative:vozovypark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB76A03E-268B-43D5-A878-9411EC5081C8}|VozovyPark\\VozovyPark.csproj|c:\\users\\mottja\\source\\pr1-1a-2s(2024)\\08\\vozovypark\\vozovypark\\vozidlo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB76A03E-268B-43D5-A878-9411EC5081C8}|VozovyPark\\VozovyPark.csproj|solutionrelative:vozovypark\\vozidlo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Prodejce.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1A-2S(2024)\\08\\VozovyPark\\VozovyPark\\Prodejce.cs",
+              "RelativeDocumentMoniker": "VozovyPark\\Prodejce.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1A-2S(2024)\\08\\VozovyPark\\VozovyPark\\Prodejce.cs",
+              "RelativeToolTip": "VozovyPark\\Prodejce.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:12:30.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vozidlo.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1A-2S(2024)\\08\\VozovyPark\\VozovyPark\\Vozidlo.cs",
+              "RelativeDocumentMoniker": "VozovyPark\\Vozidlo.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1A-2S(2024)\\08\\VozovyPark\\VozovyPark\\Vozidlo.cs",
+              "RelativeToolTip": "VozovyPark\\Vozidlo.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:56:07.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1A-2S(2024)\\08\\VozovyPark\\VozovyPark\\Program.cs",
+              "RelativeDocumentMoniker": "VozovyPark\\Program.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1A-2S(2024)\\08\\VozovyPark\\VozovyPark\\Program.cs",
+              "RelativeToolTip": "VozovyPark\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:52:32.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
