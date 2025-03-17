@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\VozovyPark\VozovyPark\obj\Debug\net8.0\VozovyPark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\VozovyPark\VozovyPark\obj\Debug\net8.0\VozovyPark.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\VozovyPark\VozovyPark\obj\Debug\net8.0\VozovyPark.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\VozovyPark\VozovyPark\obj\Debug\net8.0\VozovyPark.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\VozovyPark\VozovyPark\obj\Debug\net8.0\VozovyPark.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\VozovyPark\VozovyPark\bin\Debug\net8.0\VozovyPark.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\VozovyPark\VozovyPark\bin\Debug\net8.0\VozovyPark.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\VozovyPark\VozovyPark\bin\Debug\net8.0\VozovyPark.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\VozovyPark\VozovyPark\bin\Debug\net8.0\VozovyPark.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\VozovyPark\VozovyPark\bin\Debug\net8.0\VozovyPark.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\VozovyPark\VozovyPark\obj\Debug\net8.0\VozovyPark.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\VozovyPark\VozovyPark\obj\Debug\net8.0\refint\VozovyPark.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\VozovyPark\VozovyPark\obj\Debug\net8.0\VozovyPark.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\VozovyPark\VozovyPark\obj\Debug\net8.0\VozovyPark.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\08\VozovyPark\VozovyPark\obj\Debug\net8.0\ref\VozovyPark.dll

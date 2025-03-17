@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VozovyPark")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f9639cdfb34f4689402e621d88673e66370f419")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fb38351f3e1ecbb32b51c6b38ccf9bc02cf6018")]
 [assembly: System.Reflection.AssemblyProductAttribute("VozovyPark")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VozovyPark")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
