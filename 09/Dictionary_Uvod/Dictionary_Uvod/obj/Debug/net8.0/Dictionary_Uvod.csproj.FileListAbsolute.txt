@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Dictionary_Uvod\Dictionary_Uvod\obj\Debug\net8.0\Dictionary_Uvod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Dictionary_Uvod\Dictionary_Uvod\obj\Debug\net8.0\Dictionary_Uvod.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Dictionary_Uvod\Dictionary_Uvod\obj\Debug\net8.0\Dictionary_Uvod.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Dictionary_Uvod\Dictionary_Uvod\obj\Debug\net8.0\Dictionary_Uvod.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Dictionary_Uvod\Dictionary_Uvod\obj\Debug\net8.0\Dictionary_Uvod.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Dictionary_Uvod\Dictionary_Uvod\bin\Debug\net8.0\Dictionary_Uvod.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Dictionary_Uvod\Dictionary_Uvod\bin\Debug\net8.0\Dictionary_Uvod.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Dictionary_Uvod\Dictionary_Uvod\bin\Debug\net8.0\Dictionary_Uvod.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Dictionary_Uvod\Dictionary_Uvod\bin\Debug\net8.0\Dictionary_Uvod.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Dictionary_Uvod\Dictionary_Uvod\bin\Debug\net8.0\Dictionary_Uvod.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Dictionary_Uvod\Dictionary_Uvod\obj\Debug\net8.0\Dictionary_Uvod.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Dictionary_Uvod\Dictionary_Uvod\obj\Debug\net8.0\refint\Dictionary_Uvod.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Dictionary_Uvod\Dictionary_Uvod\obj\Debug\net8.0\Dictionary_Uvod.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Dictionary_Uvod\Dictionary_Uvod\obj\Debug\net8.0\Dictionary_Uvod.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Dictionary_Uvod\Dictionary_Uvod\obj\Debug\net8.0\ref\Dictionary_Uvod.dll
