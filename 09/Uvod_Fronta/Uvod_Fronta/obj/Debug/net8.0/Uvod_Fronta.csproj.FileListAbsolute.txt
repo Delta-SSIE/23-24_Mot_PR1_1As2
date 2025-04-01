@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Uvod_Fronta\Uvod_Fronta\bin\Debug\net8.0\Uvod_Fronta.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Uvod_Fronta\Uvod_Fronta\bin\Debug\net8.0\Uvod_Fronta.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Uvod_Fronta\Uvod_Fronta\bin\Debug\net8.0\Uvod_Fronta.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Uvod_Fronta\Uvod_Fronta\bin\Debug\net8.0\Uvod_Fronta.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Uvod_Fronta\Uvod_Fronta\bin\Debug\net8.0\Uvod_Fronta.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Uvod_Fronta\Uvod_Fronta\obj\Debug\net8.0\Uvod_Fronta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Uvod_Fronta\Uvod_Fronta\obj\Debug\net8.0\Uvod_Fronta.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Uvod_Fronta\Uvod_Fronta\obj\Debug\net8.0\Uvod_Fronta.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Uvod_Fronta\Uvod_Fronta\obj\Debug\net8.0\Uvod_Fronta.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Uvod_Fronta\Uvod_Fronta\obj\Debug\net8.0\Uvod_Fronta.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Uvod_Fronta\Uvod_Fronta\obj\Debug\net8.0\Uvod_Fronta.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Uvod_Fronta\Uvod_Fronta\obj\Debug\net8.0\refint\Uvod_Fronta.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Uvod_Fronta\Uvod_Fronta\obj\Debug\net8.0\Uvod_Fronta.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Uvod_Fronta\Uvod_Fronta\obj\Debug\net8.0\Uvod_Fronta.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Uvod_Fronta\Uvod_Fronta\obj\Debug\net8.0\ref\Uvod_Fronta.dll
