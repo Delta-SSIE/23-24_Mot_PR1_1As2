@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Proc_FrontaUkolu\Proc_FrontaUkolu\bin\Debug\net8.0\Proc_FrontaUkolu.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Proc_FrontaUkolu\Proc_FrontaUkolu\bin\Debug\net8.0\Proc_FrontaUkolu.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Proc_FrontaUkolu\Proc_FrontaUkolu\bin\Debug\net8.0\Proc_FrontaUkolu.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Proc_FrontaUkolu\Proc_FrontaUkolu\bin\Debug\net8.0\Proc_FrontaUkolu.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Proc_FrontaUkolu\Proc_FrontaUkolu\bin\Debug\net8.0\Proc_FrontaUkolu.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Proc_FrontaUkolu\Proc_FrontaUkolu\obj\Debug\net8.0\Proc_FrontaUkolu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Proc_FrontaUkolu\Proc_FrontaUkolu\obj\Debug\net8.0\Proc_FrontaUkolu.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Proc_FrontaUkolu\Proc_FrontaUkolu\obj\Debug\net8.0\Proc_FrontaUkolu.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Proc_FrontaUkolu\Proc_FrontaUkolu\obj\Debug\net8.0\Proc_FrontaUkolu.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Proc_FrontaUkolu\Proc_FrontaUkolu\obj\Debug\net8.0\Proc_FrontaUkolu.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Proc_FrontaUkolu\Proc_FrontaUkolu\obj\Debug\net8.0\Proc_FrontaUkolu.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Proc_FrontaUkolu\Proc_FrontaUkolu\obj\Debug\net8.0\refint\Proc_FrontaUkolu.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Proc_FrontaUkolu\Proc_FrontaUkolu\obj\Debug\net8.0\Proc_FrontaUkolu.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Proc_FrontaUkolu\Proc_FrontaUkolu\obj\Debug\net8.0\Proc_FrontaUkolu.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Proc_FrontaUkolu\Proc_FrontaUkolu\obj\Debug\net8.0\ref\Proc_FrontaUkolu.dll
