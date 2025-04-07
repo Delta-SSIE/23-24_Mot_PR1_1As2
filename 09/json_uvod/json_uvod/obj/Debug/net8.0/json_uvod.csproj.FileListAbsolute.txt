@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\json_uvod\json_uvod\bin\Debug\net8.0\json_uvod.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\json_uvod\json_uvod\bin\Debug\net8.0\json_uvod.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\json_uvod\json_uvod\bin\Debug\net8.0\json_uvod.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\json_uvod\json_uvod\bin\Debug\net8.0\json_uvod.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\json_uvod\json_uvod\bin\Debug\net8.0\json_uvod.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\json_uvod\json_uvod\obj\Debug\net8.0\json_uvod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\json_uvod\json_uvod\obj\Debug\net8.0\json_uvod.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\json_uvod\json_uvod\obj\Debug\net8.0\json_uvod.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\json_uvod\json_uvod\obj\Debug\net8.0\json_uvod.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\json_uvod\json_uvod\obj\Debug\net8.0\json_uvod.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\json_uvod\json_uvod\obj\Debug\net8.0\json_uvod.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\json_uvod\json_uvod\obj\Debug\net8.0\refint\json_uvod.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\json_uvod\json_uvod\obj\Debug\net8.0\json_uvod.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\json_uvod\json_uvod\obj\Debug\net8.0\json_uvod.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\json_uvod\json_uvod\obj\Debug\net8.0\ref\json_uvod.dll
