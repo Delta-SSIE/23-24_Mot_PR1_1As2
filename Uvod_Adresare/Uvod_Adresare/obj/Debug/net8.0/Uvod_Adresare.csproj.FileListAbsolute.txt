@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\Uvod_Adresare\Uvod_Adresare\bin\Debug\net8.0\Uvod_Adresare.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\Uvod_Adresare\Uvod_Adresare\bin\Debug\net8.0\Uvod_Adresare.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\Uvod_Adresare\Uvod_Adresare\bin\Debug\net8.0\Uvod_Adresare.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\Uvod_Adresare\Uvod_Adresare\bin\Debug\net8.0\Uvod_Adresare.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\Uvod_Adresare\Uvod_Adresare\bin\Debug\net8.0\Uvod_Adresare.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\Uvod_Adresare\Uvod_Adresare\obj\Debug\net8.0\Uvod_Adresare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\Uvod_Adresare\Uvod_Adresare\obj\Debug\net8.0\Uvod_Adresare.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\Uvod_Adresare\Uvod_Adresare\obj\Debug\net8.0\Uvod_Adresare.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\Uvod_Adresare\Uvod_Adresare\obj\Debug\net8.0\Uvod_Adresare.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\Uvod_Adresare\Uvod_Adresare\obj\Debug\net8.0\Uvod_Adresare.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\Uvod_Adresare\Uvod_Adresare\obj\Debug\net8.0\Uvod_Adresare.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\Uvod_Adresare\Uvod_Adresare\obj\Debug\net8.0\refint\Uvod_Adresare.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\Uvod_Adresare\Uvod_Adresare\obj\Debug\net8.0\Uvod_Adresare.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\Uvod_Adresare\Uvod_Adresare\obj\Debug\net8.0\Uvod_Adresare.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\Uvod_Adresare\Uvod_Adresare\obj\Debug\net8.0\ref\Uvod_Adresare.dll
