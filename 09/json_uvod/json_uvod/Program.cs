@@ -30,7 +30,25 @@ namespace json_uvod
                 Console.WriteLine(studenti[i].first_name);
             }
 
-           
+            /*
+            List<Student> lstudenti = new List<Student>(studenti);
+
+            studenti = lstudenti.ToArray();
+            */
+
+            studenti[0].first_name = "Vavrich";
+            studenti[0].last_name = "Benda";
+
+
+            string string_studenti = JsonSerializer.Serialize(studenti);
+            Console.WriteLine(string_studenti);
+
+            File.WriteAllText("data.json", string_studenti);
+
+
+
+
+
 
         }
     }

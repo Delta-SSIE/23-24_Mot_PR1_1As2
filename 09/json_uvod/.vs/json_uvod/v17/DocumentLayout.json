@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{899DE8CE-169E-49A6-B385-150678BE96DE}|json_uvod\\json_uvod.csproj|solutionrelative:json_uvod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mottja\\source\\PR1-1A-2S(2024)\\09\\json_uvod\\json_uvod\\bin\\Debug\\net8.0\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:json_uvod\\bin\\Debug\\net8.0\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{899DE8CE-169E-49A6-B385-150678BE96DE}|json_uvod\\json_uvod.csproj|c:\\users\\mottja\\source\\pr1-1a-2s(2024)\\09\\json_uvod\\json_uvod\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{899DE8CE-169E-49A6-B385-150678BE96DE}|json_uvod\\json_uvod.csproj|solutionrelative:json_uvod\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mottja\\source\\PR1-1A-2S(2024)\\09\\json_uvod\\json_uvod\\bin\\Debug\\net8.0\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:json_uvod\\bin\\Debug\\net8.0\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,26 +26,26 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "data.json",
               "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1A-2S(2024)\\09\\json_uvod\\json_uvod\\bin\\Debug\\net8.0\\data.json",
               "RelativeDocumentMoniker": "json_uvod\\bin\\Debug\\net8.0\\data.json",
               "ToolTip": "C:\\Users\\mottja\\source\\PR1-1A-2S(2024)\\09\\json_uvod\\json_uvod\\bin\\Debug\\net8.0\\data.json",
               "RelativeToolTip": "json_uvod\\bin\\Debug\\net8.0\\data.json",
-              "ViewState": "AgIAAOQDAAAAAAAAAAAAAOcDAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-07T09:20:52.174Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1A-2S(2024)\\09\\json_uvod\\json_uvod\\Student.cs",
               "RelativeDocumentMoniker": "json_uvod\\Student.cs",
               "ToolTip": "C:\\Users\\mottja\\source\\PR1-1A-2S(2024)\\09\\json_uvod\\json_uvod\\Student.cs",
               "RelativeToolTip": "json_uvod\\Student.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAcwAoAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwAsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T09:07:35.647Z",
               "EditorCaption": ""
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "json_uvod\\Program.cs",
               "ToolTip": "C:\\Users\\mottja\\source\\PR1-1A-2S(2024)\\09\\json_uvod\\json_uvod\\Program.cs",
               "RelativeToolTip": "json_uvod\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T09:06:35.561Z",
               "EditorCaption": ""

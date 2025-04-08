@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("json_uvod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7230ca161861b0927e0be65c63957823d6b7d99")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ccbc75e54f98375220c457a666a9548d8d61834")]
 [assembly: System.Reflection.AssemblyProductAttribute("json_uvod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("json_uvod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
