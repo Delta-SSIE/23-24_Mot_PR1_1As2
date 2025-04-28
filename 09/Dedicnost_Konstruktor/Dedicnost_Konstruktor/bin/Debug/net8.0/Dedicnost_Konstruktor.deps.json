@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Dedicnost_Konstruktor/1.0.0": {
+        "runtime": {
+          "Dedicnost_Konstruktor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dedicnost_Konstruktor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

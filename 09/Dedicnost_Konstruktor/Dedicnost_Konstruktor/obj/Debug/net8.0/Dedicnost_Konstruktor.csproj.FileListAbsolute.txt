@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Dedicnost_Konstruktor\Dedicnost_Konstruktor\obj\Debug\net8.0\Dedicnost_Konstruktor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Dedicnost_Konstruktor\Dedicnost_Konstruktor\obj\Debug\net8.0\Dedicnost_Konstruktor.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Dedicnost_Konstruktor\Dedicnost_Konstruktor\obj\Debug\net8.0\Dedicnost_Konstruktor.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Dedicnost_Konstruktor\Dedicnost_Konstruktor\obj\Debug\net8.0\Dedicnost_Konstruktor.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Dedicnost_Konstruktor\Dedicnost_Konstruktor\obj\Debug\net8.0\Dedicnost_Konstruktor.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Dedicnost_Konstruktor\Dedicnost_Konstruktor\bin\Debug\net8.0\Dedicnost_Konstruktor.exe
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Dedicnost_Konstruktor\Dedicnost_Konstruktor\bin\Debug\net8.0\Dedicnost_Konstruktor.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Dedicnost_Konstruktor\Dedicnost_Konstruktor\bin\Debug\net8.0\Dedicnost_Konstruktor.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Dedicnost_Konstruktor\Dedicnost_Konstruktor\bin\Debug\net8.0\Dedicnost_Konstruktor.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Dedicnost_Konstruktor\Dedicnost_Konstruktor\bin\Debug\net8.0\Dedicnost_Konstruktor.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Dedicnost_Konstruktor\Dedicnost_Konstruktor\obj\Debug\net8.0\Dedicnost_Konstruktor.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Dedicnost_Konstruktor\Dedicnost_Konstruktor\obj\Debug\net8.0\refint\Dedicnost_Konstruktor.dll
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Dedicnost_Konstruktor\Dedicnost_Konstruktor\obj\Debug\net8.0\Dedicnost_Konstruktor.pdb
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Dedicnost_Konstruktor\Dedicnost_Konstruktor\obj\Debug\net8.0\Dedicnost_Konstruktor.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2024)\09\Dedicnost_Konstruktor\Dedicnost_Konstruktor\obj\Debug\net8.0\ref\Dedicnost_Konstruktor.dll
