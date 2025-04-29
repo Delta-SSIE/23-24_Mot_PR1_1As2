@@ -14,7 +14,7 @@ namespace Eshop
 
         public virtual void DisplayInfo()
         {
-            Console.WriteLine($"User {name}, price {price}");
+            Console.WriteLine($"Name {name}, price {price}");
         }
     }
 }

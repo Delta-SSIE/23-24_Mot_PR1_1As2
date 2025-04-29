@@ -11,7 +11,7 @@ namespace Eshop
         public string username { get; set; }
         public string pass { get; set; }
         public string email { get; set; }
-        public string type { get; set; } 
+        public string type { get; set; } = null;
 
         public virtual void DisplayInfo()
         {
