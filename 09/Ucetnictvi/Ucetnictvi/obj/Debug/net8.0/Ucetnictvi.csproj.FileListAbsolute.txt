@@ -1,0 +1,14 @@
+C:\Users\mottja\source\repos\Ucetnictvi\Ucetnictvi\bin\Debug\net8.0\Ucetnictvi.exe
+C:\Users\mottja\source\repos\Ucetnictvi\Ucetnictvi\bin\Debug\net8.0\Ucetnictvi.deps.json
+C:\Users\mottja\source\repos\Ucetnictvi\Ucetnictvi\bin\Debug\net8.0\Ucetnictvi.runtimeconfig.json
+C:\Users\mottja\source\repos\Ucetnictvi\Ucetnictvi\bin\Debug\net8.0\Ucetnictvi.dll
+C:\Users\mottja\source\repos\Ucetnictvi\Ucetnictvi\bin\Debug\net8.0\Ucetnictvi.pdb
+C:\Users\mottja\source\repos\Ucetnictvi\Ucetnictvi\obj\Debug\net8.0\Ucetnictvi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\repos\Ucetnictvi\Ucetnictvi\obj\Debug\net8.0\Ucetnictvi.AssemblyInfoInputs.cache
+C:\Users\mottja\source\repos\Ucetnictvi\Ucetnictvi\obj\Debug\net8.0\Ucetnictvi.AssemblyInfo.cs
+C:\Users\mottja\source\repos\Ucetnictvi\Ucetnictvi\obj\Debug\net8.0\Ucetnictvi.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\repos\Ucetnictvi\Ucetnictvi\obj\Debug\net8.0\Ucetnictvi.dll
+C:\Users\mottja\source\repos\Ucetnictvi\Ucetnictvi\obj\Debug\net8.0\refint\Ucetnictvi.dll
+C:\Users\mottja\source\repos\Ucetnictvi\Ucetnictvi\obj\Debug\net8.0\Ucetnictvi.pdb
+C:\Users\mottja\source\repos\Ucetnictvi\Ucetnictvi\obj\Debug\net8.0\Ucetnictvi.genruntimeconfig.cache
+C:\Users\mottja\source\repos\Ucetnictvi\Ucetnictvi\obj\Debug\net8.0\ref\Ucetnictvi.dll
